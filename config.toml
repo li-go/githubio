@@ -1,0 +1,4 @@
+baseURL = "https://li-go.github.io/"
+languageCode = "en-us"
+title = "Just A Gopher"
+theme = "ananke"
