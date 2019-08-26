@@ -1,6 +1,7 @@
 ---
 title: "Introduce A Simple File Server"
 date: 2019-08-25T15:58:39+09:00
+tags: ["tool", "go"]
 draft: false
 ---
 

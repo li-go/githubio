@@ -1,4 +1,8 @@
 baseURL = "https://li-go.github.io/"
 languageCode = "en-us"
-title = "Just A Gopher"
+title = "A Gopher's Site"
 theme = "ananke"
+
+[params]
+  github = "https://github.com/li-go"
+  twitter = "https://twitter.com/googo_dev"

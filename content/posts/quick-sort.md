@@ -1,6 +1,7 @@
 ---
 title: "Quick Sort"
 date: 2019-08-26T15:45:34+09:00
+tags: ["algorithm"]
 draft: false
 ---
 
