@@ -14,8 +14,8 @@ func Quick(nums []int, l, r int) {
 		return
 	}
 	p := partition(nums, l, r)
-	quickSort(nums, l, p-1)
-	quickSort(nums, p+1, r)
+	Quick(nums, l, p-1)
+	Quick(nums, p+1, r)
 }
 
 // partition puts nums[hi] to its right place and return the index of it
